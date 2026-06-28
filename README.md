@@ -66,10 +66,33 @@ Fields:
 - emp_name
 - department
 - salary
-
 ## Screenshots
 
-(Add screenshots here after running the project.)
+### Home Page
+
+<img width="599" height="351" alt="image" src="https://github.com/user-attachments/assets/622b2a32-58b4-48cf-851e-fed3c8234d68" />
+
+
+### Add Employee
+
+<img width="535" height="400" alt="image" src="https://github.com/user-attachments/assets/5394f53b-486a-47f1-8c7a-6f111b7b4bf8" />
+
+
+### View Employees
+
+<img width="920" height="340" alt="image" src="https://github.com/user-attachments/assets/fbb37940-c9f0-4f5c-bc5e-e1f8b2eb9068" />
+
+
+### Update Employee
+
+<img width="560" height="394" alt="image" src="https://github.com/user-attachments/assets/6abba922-623b-423e-a3d4-d6f223b70c64" />
+
+
+### Delete Employee
+
+<img width="478" height="296" alt="image" src="https://github.com/user-attachments/assets/146250f2-8e67-4434-a438-0e78c7a9c4b6" />
+
+
 
 ## Author
 
