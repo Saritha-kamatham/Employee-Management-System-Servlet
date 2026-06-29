@@ -70,12 +70,14 @@ Fields:
 
 ### Home Page
 
-<img width="599" height="351" alt="image" src="https://github.com/user-attachments/assets/622b2a32-58b4-48cf-851e-fed3c8234d68" />
+<img width="950" height="433" alt="image" src="https://github.com/user-attachments/assets/8f5582db-ddde-451e-bab9-cd666fad6cd7" />
+
 
 
 ### Add Employee
 
-<img width="535" height="400" alt="image" src="https://github.com/user-attachments/assets/5394f53b-486a-47f1-8c7a-6f111b7b4bf8" />
+<img width="948" height="428" alt="image" src="https://github.com/user-attachments/assets/6b3fe4c1-2238-429e-864d-4eb3f351f55c" />
+
 
 
 ### View Employees
@@ -85,12 +87,14 @@ Fields:
 
 ### Update Employee
 
-<img width="560" height="394" alt="image" src="https://github.com/user-attachments/assets/6abba922-623b-423e-a3d4-d6f223b70c64" />
+<img width="950" height="436" alt="image" src="https://github.com/user-attachments/assets/292edb22-8ec2-4a53-b633-dd82197ed749" />
+
 
 
 ### Delete Employee
 
-<img width="478" height="296" alt="image" src="https://github.com/user-attachments/assets/146250f2-8e67-4434-a438-0e78c7a9c4b6" />
+<img width="801" height="371" alt="image" src="https://github.com/user-attachments/assets/8e6ee1b6-f6a8-4f19-8f85-2035ae3255f5" />
+
 
 
 
